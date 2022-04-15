@@ -14,5 +14,4 @@
 Apps y Herramientas que uso
 
 <br>
-<img heigth ="30" src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" style = "max-width: 100%;">
-<img heigth ="30" src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png" style = "max-width: 100%;">
+<a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" style="max-width: 100%;"></a></code>

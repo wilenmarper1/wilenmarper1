@@ -1,7 +1,6 @@
 ### Hola! Mi nombre es
 
-<!--
-**wilenmarper1/wilenmarper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "https://drive.google.com/file/d/1kQKyeLeJnJpbh5kKkM-0Uin2jPL1CDx_/view">
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

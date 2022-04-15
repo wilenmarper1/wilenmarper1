@@ -2,8 +2,6 @@
 
 <img src = "https://i.postimg.cc/HLj3Ttbw/GitHub2.png">
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,3 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Apps y Herramientas que uso
+
+<br>
+<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png">
+<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png">
+<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png">
+<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png">
+<img src = "">
+<img src = "">
+<img src = "">

@@ -1,6 +1,6 @@
 ### Hola! Mi nombre es
 
-<img src = "https://drive.google.com/file/d/1kQKyeLeJnJpbh5kKkM-0Uin2jPL1CDx_/view">
+<img src = "https://i.postimg.cc/HLj3Ttbw/GitHub2.png">
 
 Here are some ideas to get you started:
 

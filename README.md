@@ -14,10 +14,5 @@
 Apps y Herramientas que uso
 
 <br>
-<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png">
-<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png">
-<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png">
-<img src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png">
-<img src = "">
-<img src = "">
-<img src = "">
+<img heigth ="30" src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" style = "max-width: 100%;">
+<img heigth ="30" src = "https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png" style = "max-width: 100%;">

@@ -13,5 +13,9 @@
 
 Apps y Herramientas que uso
 
-<br>
+<a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" style="max-width: 100%;"></a></code>
+<a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png" style="max-width: 100%;"></a></code>
+<a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png" style="max-width: 100%;"></a></code>
+<a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png" style="max-width: 100%;"></a></code>
+<a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" style="max-width: 100%;"></a></code>

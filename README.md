@@ -13,9 +13,8 @@ Apps y Herramientas que uso:
 <a><code><img height="30" src="/img/Js.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/Visual.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/Git.png" style="max-width: 100%;"></a></code>
-<a><code><img height="30" src="/img/Fireworks.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/Node.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/Mysql.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/Express.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/React.png" style="max-width: 100%;"></a></code>
-
+<code><img height="30" src="/img/Fireworks.png" style="max-width: 100%;"></code>

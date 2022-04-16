@@ -21,6 +21,7 @@ Apps y Herramientas que uso:
 
 
 Contacto: 
-<a>300 2421380<code><img height="20" src="/img/Whatsapp.png" style="max-width: 100%;"></a></code> 
-<a><code><img height="20" src="/img/Hotmail.png" style="max-width: 100%;"></a></code>
-<a href="https://www.linkedin.com/in/wilbin-marriaga-pertuz-073a2a21a/"><code><img height="20" src="/img/Linkedin.png" style="max-width: 100%;"></a></code>
+<br>
+<a href="#"><code><img height="20" src="/img/Whatsapp.png" style="max-width: 100%;"></a></code> 300 2421380 
+<a href="https://www.linkedin.com/in/wilbin-marriaga-pertuz-073a2a21a/><code><img height="20" src="/img/Hotmail.png" style="max-width: 100%;"></a></code> 
+<a href="wilmarper_1204@hotmail.com"><code><img height="20" src="/img/Linkedin.png" style="max-width: 100%;"></a></code> wilmarper_1204@hotmail.com

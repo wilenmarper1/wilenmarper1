@@ -6,7 +6,7 @@
 
 ⭐️ Estoy buscando mi primer trabajo en TI.
 
-Apps y Herramientas que uso
+Apps y Herramientas que uso:
 
 <a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png" style="max-width: 100%;"></a></code>

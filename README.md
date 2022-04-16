@@ -17,4 +17,10 @@ Apps y Herramientas que uso:
 <a><code><img height="30" src="/img/Mysql.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/Express.png" style="max-width: 100%;"></a></code>
 <a><code><img height="30" src="/img/React.png" style="max-width: 100%;"></a></code>
-<code><img height="30" src="/img/Fireworks.png" style="max-width: 100%;"></code>
+<a><code><img height="30" src="/img/Fireworks.png" style="max-width: 100%;"></a></code>
+
+
+Contacto: 
+<a>300 2421380<code><img height="20" src="/img/Whatsapp.png" style="max-width: 100%;"></a></code> 
+<a><code><img height="20" src="/img/Hotmail.png" style="max-width: 100%;"></a></code>
+<a href="https://www.linkedin.com/in/wilbin-marriaga-pertuz-073a2a21a/"><code><img height="20" src="/img/Linkedin.png" style="max-width: 100%;"></a></code>

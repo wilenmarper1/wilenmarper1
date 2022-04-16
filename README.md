@@ -2,7 +2,7 @@
 
 <img src = "https://i.postimg.cc/HLj3Ttbw/GitHub2.png">
 
-* Actualmente estudio para ser Desarrollador Full Stack, en <font color= "red">DIGITAL HOUSE</font>. Espero llegar a ser un gran programador, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y siempre avanzar hacia la meta.
+* Actualmente estudio para ser un Desarrollador Full Stack, en <font style color= "red">DIGITAL HOUSE</font>. Espero llegar a ser un gran programador, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y siempre avanzar hacia la meta.
 
 * Estoy buscando mi primer trabajo en TI.
 

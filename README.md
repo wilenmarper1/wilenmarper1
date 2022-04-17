@@ -1,6 +1,6 @@
 ### Hola! Mi nombre es
 
-<a href="#"><img alt="GitHub3" onmouseout="this.src='/img/GitHub2.png';" onmouseover="this.src='/img/GitHub3.png';" src="/img/GitHub2.png" /></a>
+<a href="#"><img src="/img/GitHub2.png" /></a>
 
 ⭐️ Actualmente estudio para ser un Desarrollador Full Stack, en <a href="https://www.digitalhouse.com/co/">DIGITAL HOUSE</a>.  Espero llegar a ser un gran programador, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y siempre avanzar hacia la meta.
 
